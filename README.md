@@ -3,13 +3,9 @@
 
 
 <p align="center">
-
   🎓 Ciência da Computação - UERJ &nbsp;|&nbsp;
-
   💻 Técnico em Informática - SENAC RJ <br>
-
   🚀 Apaixonado por tecnologia, desenvolvimento web e aprendizado contínuo
-
 </p>
 
 
